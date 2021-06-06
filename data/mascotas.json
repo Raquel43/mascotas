@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "60b3a9725e2737695c328046"
+  },
+  "tipo": "gato",
+  "titulo": "gatita",
+  "descripcion": "Esta gatita estaba en la calle, tiene un mes y medio. Es de pelo largo y es muy buena y cariñosa",
+  "meses": "1.5",
+  "anyos": "",
+  "imagen": "gato1.jpg"
+},{
+  "_id": {
+    "$oid": "60b3aa045e2737695c328047"
+  },
+  "tipo": "gato",
+  "titulo": "gatita",
+  "descripcion": "Gatita de un mes y medio. Ya destetada.",
+  "meses": "",
+  "anyos": "",
+  "imagen": "gato2.jpg"
+},{
+  "_id": {
+    "$oid": "60b3aa7a5e2737695c328048"
+  },
+  "tipo": "perro",
+  "titulo": "Perro de aguas",
+  "descripcion": "Cruce de perro de aguas. Muy simpatico y nada ladrador. Abandonado.",
+  "meses": "",
+  "anyos": "",
+  "imagen": "perro2.jpg"
+},{
+  "_id": {
+    "$oid": "60b3aab35e2737695c328049"
+  },
+  "tipo": "gato",
+  "titulo": "Gatito macho",
+  "descripcion": "Gatito macho. Sus dueños no se pueden hacer cargo de el.",
+  "meses": "",
+  "anyos": "",
+  "imagen": "gato3.jpg"
+},{
+  "_id": {
+    "$oid": "60b3ab3e5e2737695c32804a"
+  },
+  "tipo": "perro",
+  "titulo": "Perrita",
+  "meses": "",
+  "anyos": "",
+  "imagen": "perro3.jpg",
+  "descripcion": "Perrita cariñosa y juguetona. Su dueña no la puede tener en casa."
+},{
+  "_id": {
+    "$oid": "60b3ab875e2737695c32804b"
+  },
+  "tipo": "gato",
+  "titulo": "Gatita",
+  "meses": "",
+  "anyos": "",
+  "imagen": "gato4.jpg",
+  "descripcion": "Rescatada del motor de un coche. Muy cariñosa y se comporta bien con los perros"
+},{
+  "_id": {
+    "$oid": "60b3abb35e2737695c32804c"
+  },
+  "tipo": "perro",
+  "titulo": "Perrita",
+  "meses": "",
+  "anyos": "",
+  "imagen": "perro4.jpg",
+  "descripcion": "Perrita muy buena, se lleva bien con otros perros."
+},{
+  "_id": {
+    "$oid": "60b46a2269732860ec547843"
+  },
+  "tipo": "perro",
+  "titulo": "cachorro",
+  "descripcion": "Cachorro de 2 meses y medio, cariñoso y divertido. Será de tamaño mediano.",
+  "meses": "2.5",
+  "anyos": "",
+  "imagen": "perro1.jpg"
+},{
+  "_id": {
+    "$oid": "60b4f5b13c20557328800f79"
+  },
+  "tipo": "perro",
+  "titulo": "Perro mayor",
+  "descripcion": "Perro abandonado por su edad, busca un hogar donde le quieran. Muy tranquilo",
+  "meses": null,
+  "anyos": 5,
+  "imagen": "perro9.jpg"
+},{
+  "_id": {
+    "$oid": "60b88130febeb51704b5de9f"
+  },
+  "tipo": "otros",
+  "titulo": "cobaya en adopción",
+  "descripcion": "Cobaya muy tranquila que es muy buena con los niños",
+  "meses": 6,
+  "anyos": null,
+  "imagen": "cobaya.jpg"
+}]
